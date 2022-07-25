@@ -1,0 +1,15 @@
+{
+  "name": "api_test_takeblip",
+  "version": "1.0.0",
+  "description": "This a RestAPI created to fulfill Take Blip's technical test",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index"
+  },
+  "author": "Vitor Francisco",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
